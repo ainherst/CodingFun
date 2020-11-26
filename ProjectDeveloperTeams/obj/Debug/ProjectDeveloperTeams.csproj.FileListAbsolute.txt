@@ -1,0 +1,7 @@
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\bin\Debug\ProjectDeveloperTeams.exe.config
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\bin\Debug\ProjectDeveloperTeams.exe
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\bin\Debug\ProjectDeveloperTeams.pdb
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\obj\Debug\ProjectDeveloperTeams.csprojAssemblyReference.cache
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\obj\Debug\ProjectDeveloperTeams.csproj.CoreCompileInputs.cache
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\obj\Debug\ProjectDeveloperTeams.exe
+\\tower\MISC\Nadia Eleven Fifty\Drew\ProjectDeveloperTeams\ProjectDeveloperTeams\ProjectDeveloperTeams\obj\Debug\ProjectDeveloperTeams.pdb
